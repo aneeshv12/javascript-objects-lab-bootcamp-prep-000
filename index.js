@@ -16,3 +16,7 @@ function deleteFromObjectByKey(object, key){
   delete dummy[key];
   return dummy;
 }
+
+function dest
+
+
